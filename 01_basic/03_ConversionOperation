@@ -22,7 +22,7 @@ console.log(valinstring)
 console.log(typeof valinstring)
 //********************Operations***************** 
 
-let op=1
+let op=10
 let negop=-op
 console.log(negop)
 
