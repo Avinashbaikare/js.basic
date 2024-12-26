@@ -20,3 +20,20 @@ let stringval=35
 let valinstring=String(stringval)
 console.log(valinstring)
 console.log(typeof valinstring)
+//********************Operations***************** 
+
+let op=1
+let negop=-op
+console.log(negop)
+
+
+let str1="avinash"
+let str2=" baikare"
+let str3=str1+str2
+console.log(str3)
+
+console.log("1"+2)
+console.log(1+2+"3")
+console.log("2"+1+2)
+console.log(+true)
+console.log(+"")
