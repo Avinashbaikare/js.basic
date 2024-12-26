@@ -1,0 +1,22 @@
+let score="33efge"
+console.log(typeof score)
+
+let innumber=Number(score)
+console.log(typeof innumber)
+console.log(innumber)
+
+//"33"=> 33
+//"33abc"=>NAN
+//true=>1, false=>0
+
+let value=1
+let booleaninval=Boolean(value)
+console.log(booleaninval)
+
+//1=> true, 0=>false
+//"avinash"=>true
+
+let stringval=35
+let valinstring=String(stringval)
+console.log(valinstring)
+console.log(typeof valinstring)
